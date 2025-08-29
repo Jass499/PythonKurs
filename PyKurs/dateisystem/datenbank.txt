@@ -1,0 +1,5 @@
+PNr            Vorname        Nachname       Ort            Geburtstag     Gehalt         
+11             Hugo           Hastig         Wien           01.08.1935     1200           
+9              Willi          Winzig         Wien           27.05.1944     200            
+8              Stefan         Derrik         Linz           23.12.1912     1500           
+23             Harry          Klein          Graz           14.02.1958     0              
